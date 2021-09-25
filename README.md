@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, My name is Gary
+#### I'm a student, I will always be a student
+![I'm a student, I will always be a student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm still studying in University Mayor de San Simon (UMSS) on Cochabamba-Bolivia
+I like to 
+
+Skills: Java / Python / Javascript 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **garyMamaniCortez/garyMamaniCortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
