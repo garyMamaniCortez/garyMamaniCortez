@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Gary
 #### I'm a student, I will always be a student
-![I'm a student, I will always be a student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[![(I'm a student, I will always be a student)](https://dwe.st/rr)
 
 I'm still studying in University Mayor de San Simon (UMSS) on Cochabamba-Bolivia
 I like to 
