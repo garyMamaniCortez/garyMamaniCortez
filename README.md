@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Gary
 #### I'm a student, I will always be a student
-[![I'm a student, I will always be a student](https://github.com/garyMamaniCortez/garyMamaniCortez/master/img/readme.jpg)](https://www.youtube.com/watch?v=Gs069dndIYk)
+[![I'm a student, I will always be a student](https://raw.githubusercontent.com/garyMamaniCortez/garyMamaniCortez/master/img/readme.jpg)](https://www.youtube.com/watch?v=Gs069dndIYk)
 
 I'm still studying in University Mayor de San Simon (UMSS) on Cochabamba-Bolivia
 I like to 
